@@ -141,11 +141,11 @@ plt.grid(True)
 plt.show()
 ```
 output waveform
-```
-Attach the output waveform
-```
+<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/bd759d31-17d0-4ebd-a834-501a9de8a6b7" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/e44a99b4-13da-436a-9b37-2edb05d76865" />
+
 # Results
 ```
-Attach the output waveform
+THUs,the modulation and demodulation of PSK and QPSK was verified
 ```
-# Hardware experiment output waveform.
+
